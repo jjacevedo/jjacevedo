@@ -46,6 +46,12 @@ In university projects I've diagnosed a real construction company's technology a
 
 Information systems, data engineering and IT management.
 
+## Interested in learning
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
 ## Where to find me
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-acevedo-ot%C3%A1lvaro-b04415268/">
